@@ -8,4 +8,6 @@ func main() {
 
 func hw01() {
 	fmt.Println(1)
+
+	fmt.Println(1)
 }
